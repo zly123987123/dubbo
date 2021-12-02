@@ -30,7 +30,7 @@
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
-        <slf4j-log4j12.version>1.7.25</slf4j-log4j12.version>
+        <slf4j-log4j12.version>1.7.32</slf4j-log4j12.version>
         <spring-boot.version>2.3.1.RELEASE</spring-boot.version>
     </properties>
 
