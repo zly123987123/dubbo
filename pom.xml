@@ -88,7 +88,7 @@
 
     <properties>
         <!-- Test libs -->
-        <junit_jupiter_version>5.6.0</junit_jupiter_version>
+        <junit_jupiter_version>5.8.1</junit_jupiter_version>
         <hazelcast_version>3.11.1</hazelcast_version>
         <hamcrest_version>2.2</hamcrest_version>
         <hibernate_validator_version>5.2.4.Final</hibernate_validator_version>
@@ -124,7 +124,7 @@
         <maven_flatten_version>1.2.5</maven_flatten_version>
         <maven_enforce_version>3.0.0-M3</maven_enforce_version>
         <apache-rat-plugin.version>0.13</apache-rat-plugin.version>
-        <arguments />
+        <arguments/>
         <checkstyle.skip>true</checkstyle.skip>
         <checkstyle_unix.skip>true</checkstyle_unix.skip>
         <rat.skip>true</rat.skip>
