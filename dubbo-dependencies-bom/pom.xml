@@ -22,7 +22,7 @@
         <groupId>org.apache</groupId>
         <artifactId>apache</artifactId>
         <version>21</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <groupId>org.apache.dubbo</groupId>
@@ -133,7 +133,7 @@
         <tomcat_embed_version>8.5.69</tomcat_embed_version>
         <jetcd_version>0.5.3</jetcd_version>
         <nacos_version>2.0.3</nacos_version>
-        <grpc.version>1.31.1</grpc.version>
+        <grpc.version>1.43.1</grpc.version>
         <!-- Log libs -->
         <slf4j_version>1.7.25</slf4j_version>
         <jcl_version>1.2</jcl_version>
