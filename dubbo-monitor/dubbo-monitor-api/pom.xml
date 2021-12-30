@@ -19,7 +19,7 @@
     <parent>
         <groupId>org.apache.dubbo</groupId>
         <artifactId>dubbo-monitor</artifactId>
-        <version>${revision}</version>
+        <version>3.0.5</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>dubbo-monitor-api</artifactId>
