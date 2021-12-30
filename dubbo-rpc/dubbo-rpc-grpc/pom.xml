@@ -19,7 +19,7 @@
     <parent>
         <groupId>org.apache.dubbo</groupId>
         <artifactId>dubbo-rpc</artifactId>
-        <version>${revision}</version>
+        <version>3.0.5</version>
     </parent>
     <artifactId>dubbo-rpc-grpc</artifactId>
     <packaging>jar</packaging>
